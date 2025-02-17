@@ -45,6 +45,7 @@ jugador = 0
 casa = 0
 ganador = False
 ronda = 1
+## Commentario 1
 
 while not ganador:
     print(f"\nRonda: {ronda}")
@@ -72,3 +73,4 @@ while not ganador:
         else:
             print("Opción no válida.")
     ronda += 1
+    #Comentario 2
